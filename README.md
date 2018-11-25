@@ -25,7 +25,7 @@ lulu                  \ # Firewall
 * [Pocket](https://safari-extensions.apple.com/details/?id=com.ideashower.pocket.safari-ET279A6R5N)
 * [uBlock Origin](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
 * [Bitwarden](https://safari-extensions.apple.com/details/?id=com.bitwarden.safari-LTZ2PFU5D6)
-* [Vimari](https://github.com/guyht/vimari/blob/master/docs/safari_12.md)
+* [sVim](https://github.com/flipxfx/sVim)
 
 ### Alfred workflows
 * [Colors](http://www.packal.org/workflow/colors)
